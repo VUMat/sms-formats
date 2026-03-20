@@ -50,3 +50,7 @@ Thumbs.db
 /.yarn/
 /.venv/
 /venv/
+
+# Python
+__pycache__/
+*.pyc
